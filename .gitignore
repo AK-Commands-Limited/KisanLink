@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+marketplace.db
+User_info.xlsx
+.env
+.streamlit/secrets.toml
